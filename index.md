@@ -1,14 +1,7 @@
----
-title: Asignaturas
-layout: Asignaturas
----
-
 
 06-11-2024
 
----
 # INDICE DEL PORFOLIO
----
   _Asignaturas_
     -Ingles
     -Programacion
